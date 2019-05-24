@@ -10,8 +10,32 @@ html {
     color: white;
 }
 
-#coming-soon-link {
+.coming-soon-link {
     color: aquamarine;
     font-size: 16px;
     font-weight: bold;
+}
+
+#phone-video {
+    margin-top: 20px;
+}
+
+#travel-guide {
+    font-size: 42px;
+    font-weight: normal;
+    color: white;
+}
+
+#tagline {
+    color: Gray;
+    font-size: 21px;
+}
+
+#coming-soon {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: right;
+    color:gray;
 }
