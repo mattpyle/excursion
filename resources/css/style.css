@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+    background-color: black;
+    font-family: Verdana;
+}
+
+#header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+#coming-soon-link {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: bold;
+}
